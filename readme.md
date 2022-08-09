@@ -49,10 +49,10 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Abdalla's github stats](https://github-readme-stats.vercel.app/api?username=abdalla3yash&theme=gotham)]
+(https://github-readme-stats.vercel.app/api?username=abdalla3yash&theme=gotham)
 
 
-[Abdalla's github languages](https://github-readme-stats.vercel.app/api/top-langs?username=abdalla3yash&show_icons=true&locale=en&layout=compact)
+(https://github-readme-stats.vercel.app/api/top-langs?username=abdalla3yash&show_icons=true&locale=en&layout=compact)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abdalla3yash&left_color=green&right_color=red)
