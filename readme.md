@@ -46,6 +46,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=abdalla3yash&show_icons=true&locale=en&layout=compact)
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=abdalla3yash&left_color=green&right_color=red)
+ <a href="https://github.com/abdalla3yash"><img src="https://hits.dwyl.com/abdalla3yash.svg?style=flat" alt="profile views"></a>
 
 [profile]: https://ayash.netlify.app
