@@ -46,4 +46,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=abdalla3yash&show_icons=true&locale=en&layout=compact)
 
 
-  <a href="https://github.com/abdalla3yash"><img src="https://hits.dwyl.com/abdalla3yash" alt="profile views"></a>
+  <a href="https://github.com/abdalla3yash"><img src="https://hits.dwyl.com/abdalla3yash/drag_widgets.svg?style=flat" alt="profile views"></a>
